@@ -3,7 +3,7 @@
 </div>
 
 
-### <div align="center">I'm Dakota, a US Veteran turned full stack developer looking for opportunities.</div>
+### <div align="center">I'm Dakota, a full stack developer looking for opportunities.</div>
 
 - 🌱 I’m currently learning Figma and SASS
 
