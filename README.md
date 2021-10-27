@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Dakota, a full stack developer looking for opportunities.</div>
 
-- 🌱 I’m currently learning Figma and SASS
+- 🌱 I’m currently learning Figma and SCSS.
 
 - ❓ Ask me about anything! I'd love to hear from you.
 
