@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PastePlay](https://github.com/Dakota-Leonard/paste-play).
 
-- 🌱 I’m currently learning Figma and SCSS.
+- 🌱 I’m currently learning Material UI and SCSS.
 
 - ❓ Ask me about anything! I'd love to hear from you.
 
