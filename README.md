@@ -40,7 +40,7 @@
 
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img style="margin: 10px" src="https://png2.cleanpng.com/sh/91c3212c952dd8c189df8d8df3404392/L0KzQYm3VMIyN6p3fZH0aYP2gLBuTf5wbJYyguU2anH5ccTqkvlxfF5ziN82ZYjzgrb6k71re154gNN7cD24cbXqUMBjPpc1UNg9Nj60RYe3UsAyO2I6SqY8Nke4RIOCWMU0NqFzf3==/kisspng-node-js-javascript-npm-express-js-sharp-5adc00b6f08f46.1560201315243675429853.png" alt="Express.js" height="50" />
+<img style="margin: 10px" src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="Express.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
 <img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/images/sequelize-logo.png" alt="Sequelize" height="50"/>
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/600px-Socket-io.svg.png" alt="Socket.io" height="50"/>
