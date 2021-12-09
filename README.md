@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Dakota, a full stack developer looking for opportunities.</div>
 
-- 🔭 I’m currently working on [PastePlay](https://github.com/Dakota-Leonard/paste-play).
+- 🔭 I’m currently working on [Converge](https://www.converge-app.com/).
 
 - 🌱 I’m currently learning [WebRTC](https://webrtc.org/) and [Phaser](https://phaser.io/phaser3).
 
