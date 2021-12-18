@@ -81,7 +81,7 @@
 
 <br/>
 
-<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dakota-leonard&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dakota-leonard&show_icons=true&count_private=true&hide_border=true&theme=gotham" align="center" /></div>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakota-leonard&hide_border=true&layout=compact" align="center" /></div></details>
 
