@@ -83,7 +83,7 @@
 
 <br/>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=d0wblxovw6jzkowl21do8ob0w&cover_image=true&theme=default" /></div>
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=d0wblxovw6jzkowl21do8ob0w&cover_image=true&theme=default" /></div> -->
 
 <br/>
 
