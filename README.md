@@ -3,7 +3,6 @@
 </div>
 
 
-### <div align="center">I'm Dakota, a full stack developer looking for opportunities.</div>
 
 - 🔭 I’m currently working on [Converge](https://www.converge-app.com/).
  
