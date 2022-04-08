@@ -5,8 +5,6 @@
 
 
 - 🔭 I’m currently working on [Converge](https://www.converge-app.com/).
- 
-- 🌱 I’m currently learning [Python](https://www.python.org/).
 
 - ❓ Ask me about anything! I'd love to hear from you.
 
